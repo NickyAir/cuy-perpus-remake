@@ -55,7 +55,7 @@ Kembangkan UI dan UX pada folder:
 
 - [Ade Nugraha](https://github.com/ade-nugraha306)
 - [Gusty Erlana Aldiansyah](https://github.com/crytomzrt)
-- [Fahlevy Miasya Rangkuti]()
+- [Fahlevy Miasya Rangkuti](https://github.com/Rangkuti-Code)
 
 ## CuyPerpus
 
@@ -111,4 +111,4 @@ Work on UI/UX development inside the folder:
 
 - [Ade Nugraha](https://github.com/ade-nugraha306)
 - [Gusty Erlana Aldiansyah](https://github.com/crytomzrt)
-- [Fahlevy Miasya Rangkuti]()
+- [Fahlevy Miasya Rangkuti](https://github.com/Rangkuti-Code)
