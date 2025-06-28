@@ -29,7 +29,7 @@ docker compose up --build
   npx prisma db seed # (Opsional) Seeding database dengan data dummy yang sudah ditentukan
   ```
 
-> Pastikan Databse sudah menyala sebelum menjalankan perintah Prisma
+> Pastikan Database sudah menyala sebelum menjalankan perintah Prisma
 
   <br>
 
