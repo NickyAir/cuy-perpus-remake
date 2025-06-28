@@ -45,6 +45,8 @@ pnpm i
 Kembangkan UI dan UX pada folder:
 `src/app/`
 
+- [Endpoint Dokumentasi](https://github.com/ade-nugraha306/cuy-perpus-remake/blob/master/README.md)
+
 **PENTING!!**
 
 - Frontend Developer dilarang mengubah isi folder `src/app/api/` karena itu merupakan domain kerja Backend Developer.
@@ -100,6 +102,8 @@ pnpm i
 
 Work on UI/UX development inside the folder:
 `src/app/`
+
+- [Endpoint Documentations](https://github.com/ade-nugraha306/cuy-perpus-remake/blob/master/README.md)
 
 **IMPORTANT!!**
 
