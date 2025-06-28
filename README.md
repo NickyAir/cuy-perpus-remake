@@ -45,7 +45,7 @@ pnpm i
 Kembangkan UI dan UX pada folder:
 `src/app/`
 
-- [Endpoint Dokumentasi](https://github.com/ade-nugraha306/cuy-perpus-remake/blob/master/README.md)
+- [Dokumentasi Endpoint](https://github.com/ade-nugraha306/cuy-perpus-remake/blob/master/README.md)
 
 **PENTING!!**
 
