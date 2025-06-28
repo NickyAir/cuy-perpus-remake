@@ -59,6 +59,8 @@ Kembangkan UI dan UX pada folder:
 - [Gusty Erlana Aldiansyah](https://github.com/crytomzrt)
 - [Fahlevy Miasya Rangkuti](https://github.com/Rangkuti-Code)
 
+---
+
 ## CuyPerpus
 
 CuyPerpus is a digital library project that was originally built using native PHP, but left unfinished. This remake project aims to rebuild it using the same structure and features—but powered by modern technologies like **Next.js**, **Docker**, and **Prisma**.
